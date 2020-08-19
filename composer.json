@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-model-cleanup",
+    "name": "nguyenhiepvan/laravel-model-cleanup",
     "description": "This package deletes unneeded records in a database.",
     "keywords": [
         "spatie",
